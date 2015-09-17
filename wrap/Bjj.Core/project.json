@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net46": {
+      "wrappedProject": "../../Bjj.Core/Bjj.Core.csproj",
+      "bin": {
+        "assembly": "../../Bjj.Core/obj/{configuration}/Bjj.Core.dll",
+        "pdb": "../../Bjj.Core/obj/{configuration}/Bjj.Core.pdb"
+      }
+    },
+    "net451": {
+      "wrappedProject": "../../Bjj.Core/Bjj.Core.csproj",
+      "bin": {
+        "assembly": "../../Bjj.Core/obj/{configuration}/Bjj.Core.dll",
+        "pdb": "../../Bjj.Core/obj/{configuration}/Bjj.Core.pdb"
+      }
+    }
+  }
+}
